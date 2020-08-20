@@ -1,2 +1,2 @@
-# project_4-stock-data
-Data Science Project 4
+# project-stock-data
+
